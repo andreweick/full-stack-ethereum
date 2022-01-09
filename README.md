@@ -9,7 +9,7 @@ The video course for this codebase is located [here](https://www.youtube.com/wat
 
 To deploy this project to Gitpod, click this button:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/dabit3/full-stack-ethereum)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/andreweick/full-stack-ethereum)
 
 Once the setup is complete, import the rpc endpoing running on Gitpod into your wallet as a custom RPC.
 
